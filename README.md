@@ -4,7 +4,7 @@ WDROID is a tool so you can master your android device via command line, below y
 
 #### PREVIEW
 
-![Screenshot](.preview/wdroid.gif)
+![Screenshot](.preview/wdroid-latest.gif)
 
 #### CONTACT 
 
